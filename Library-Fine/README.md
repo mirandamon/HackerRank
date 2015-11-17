@@ -7,13 +7,13 @@ If the book is returned in the same calendar month as the expected return date, 
 If the book is not returned in the same calendar month but in the same calendar year as the expected return date, the fine = 500 Hackos × the number of late months.
 If the book is not returned in the same calendar year, the fine is fixed at 10000 Hackos.
 
-###Input### 
+###Input###
 You are given the actual and the expected return dates in D M Y format on two separate lines. The first line contains the D M Y values for the actual return date and the next line contains the D M Y values for the expected return date. Here's a sample:
 ```
 9 6 2015
 6 6 2015
 ```
-###Constraints:### 
+###Constraints:###
 1≤D≤31 
 1≤M≤12 
 1≤Y≤3000 
