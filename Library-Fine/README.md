@@ -19,7 +19,7 @@ You are given the actual and the expected return dates in D M Y format on two se
 1≤Y≤3000 
 The given date is a valid date on a Gregorian calendar.
 
-###Output### 
+###Output###
 Print a single value representing the fine. 
 The sample output for the above input would be ```45```. 
 Since the actual return date is 3 days later than expected, the fine is calculated as 15×3=45 Hackos.
